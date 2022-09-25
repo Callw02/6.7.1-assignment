@@ -38,7 +38,6 @@ h5{
 a{
     margin: 7px;
     margin-top: 10px;
-    
     display: inline-block;
     text-decoration-style: dotted;
     color: rgb(113, 113, 113);
@@ -68,5 +67,6 @@ a{
     text-align: center;
 }
 #text{    
-      
+    margin-left: 435px;
+
 }
