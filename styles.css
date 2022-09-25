@@ -15,7 +15,7 @@ body{
    
 }
 
-h3{
+#Title{
     text-align: center;
     padding-top: 25px;
     margin: 10px;
@@ -37,6 +37,4 @@ a{
     display: inline-block;
     text-decoration-style: dotted;
     color: rgb(113, 113, 113);
-    
-  
 }
