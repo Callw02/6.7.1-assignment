@@ -3,15 +3,18 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;   
-    text-align: center;
+    
+    
+    
 }
 
-#title{
+#titlebox{
     width: 600px;
     height: 170px;
     background-color: beige;
     margin: 0px auto;
     border-radius: 5px;
+    text-align: center;
    
 }
 
@@ -21,6 +24,7 @@ body{
     margin: 10px;
     font-size: 40px;
     color: rgb(159, 140, 118);
+  
    
 }
 h5{
@@ -28,15 +32,19 @@ h5{
     font-size: 25px;
     color: rgb(159, 140, 118);
     margin: 30px;
+  
     
 }
 a{
     margin: 7px;
     margin-top: 10px;
-    text-align: center;
+    
     display: inline-block;
     text-decoration-style: dotted;
     color: rgb(113, 113, 113);
+}
+#Links{
+    text-align: center;
 }
 #image{
     background-image: url("ein.jpg");
@@ -49,4 +57,16 @@ a{
     border-radius: 50%;
     border: 1px solid black;
     border-bottom-width: 2px;
+    text-align: center;
+}
+#info{
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#text{    
+      
 }
