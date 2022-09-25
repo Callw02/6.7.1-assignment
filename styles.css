@@ -38,3 +38,13 @@ a{
     text-decoration-style: dotted;
     color: rgb(113, 113, 113);
 }
+#image{
+    background-image: url("ein.jpg");
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 10px auto;
+    border-radius: 50%;
+}
