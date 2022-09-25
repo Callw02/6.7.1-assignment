@@ -47,4 +47,6 @@ a{
     background-position: center;
     margin: 10px auto;
     border-radius: 50%;
+    border: 1px solid black;
+    border-bottom-width: 2px;
 }
