@@ -3,12 +3,10 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;   
-
-    
-    
-    
 }
-
+#base{
+    border-bottom: 1px solid black;
+}
 #titlebox{
     width: 600px;
     height: 150px;
@@ -16,25 +14,21 @@ body{
     margin: 0px auto;
     border-radius: 5px;
     text-align: center;
-   
 }
 
 #Title{
     text-align: center;
     padding-top: 25px;
-    margin: 5px;
+    margin: 10px;
     font-size: 40px;
     color: rgb(159, 140, 118);
-  
-   
 }
 h5{
     text-align: center;
     font-size: 25px;
     color: rgb(159, 140, 118);
     margin: 30px;
-  
-    
+    margin-top: 20px;
 }
 a{
     margin: 7px;
@@ -61,7 +55,6 @@ a{
 }
 #info{
     border-top: 1px solid lightgray;
-   
     width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -71,5 +64,9 @@ a{
     margin-left: 435px;
     width: 600px;
     border-bottom: 1px solid lightgray;
-
+}
+footer{
+    text-align: center;
+    margin: 20px;
+    font-size: 14px;
 }
